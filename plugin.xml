@@ -94,7 +94,7 @@
             <string>This app would like to scan for beacons when in background.</string>
         </config-file>
 	<config-file target="*-Info.plist" parent="NSBluetoothPeripheralUsageDescription">
-            <string>This app would like to scan for beacons while it is in use.</string>
+            <string>Se utliza el Bluetooth del dispositivo para reconocer los Beacons cercanos.</string>
         </config-file>
 
 	</platform>
